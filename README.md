@@ -69,6 +69,22 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/how-i-segmented-millions-of-users-in-just-a-few-milliseconds-4hmd">How I Segmented Millions of Users in Just a Few...</a>
+                <div>User segmentation requirement   Imagine you need to send a push notification to users who...</div>
+                <div><i>03/08/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/graphql-la-gi-tai-sao-nen-dung-cho-social-app-ihj">GraphQL là gì — Tại sao nên dùng cho Social...</a>
+                <div>GraphQL là gì — Tại sao nên dùng cho Social App?               1. GraphQL là gì?   GraphQL...</div>
+                <div><i>21/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/bmad-cheat-sheet-5ab2">BMAD cheat sheet</a>
                 <div>Module 1: BMM (Business Model Management)   The main product development module, designed...</div>
                 <div><i>11/03/2026</i></div>
@@ -90,31 +106,15 @@ jobs:
                 <div><i>11/03/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o">Understanding the Agents in the BMAD</a>
-                <div>BMAD Agents   BMAD uses a team of specialized agents, each representing a distinct role in...</div>
-                <div><i>11/03/2026</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618">Cô bé bán diêm phiên bản 2026</a>
-                <div>Đêm đông 2026, văn phòng vắng tanh. Một cậu dev ngồi OT, tay gõ từng dòng code cho kịp deadline: 5...</div>
-                <div><i>14/01/2026</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [How I Segmented Millions of Users in Just a Few...](https://dev.to/jacktt/how-i-segmented-millions-of-users-in-just-a-few-milliseconds-4hmd) - 03/08/2026
+- [GraphQL là gì — Tại sao nên dùng cho Social...](https://dev.to/jacktt/graphql-la-gi-tai-sao-nen-dung-cho-social-app-ihj) - 21/05/2026
 - [BMAD cheat sheet](https://dev.to/jacktt/bmad-cheat-sheet-5ab2) - 11/03/2026
 - [BMAD Quick Flow](https://dev.to/jacktt/bmad-quick-flow-15en) - 11/03/2026
 - [BMAD Standard Workflow](https://dev.to/jacktt/bmad-standard-workflow-2kma) - 11/03/2026
-- [Understanding the Agents in the BMAD](https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o) - 11/03/2026
-- [Cô bé bán diêm phiên bản 2026](https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618) - 14/01/2026
 
-*Updated at: 2026-03-30T07:59:11Z*
+*Updated at: 2026-08-27T09:43:08Z*
